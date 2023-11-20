@@ -1,0 +1,76 @@
+.header1{
+    height: 25vh;
+    width: 100vw;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.div1{
+    margin-top: -10%;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=");
+    background-size: cover;
+    text-align: center;
+}
+.t1{
+    color: red;
+    text-align: center;
+    font-size: large;
+}
+.title{
+    height: 25vh;
+    width: 100vw;
+    text-align: center;
+    font-family: 'Courier New';
+    background-color: snow;
+    font-size: larger;
+    color:mediumvioletred;
+}
+.content{
+    margin-top: -10%;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://images.ctfassets.net/0d3i1kfsuaq3/3PxPvLiSrv6uZwCLKaJgeS/25e0b43a671c514498d59c010a5671c7/mahe-hari-1.png");
+    background-size: cover;
+}
+.container{
+    height: 25vh;
+    width: 100vw;
+    text-align: center;
+    font-weight: 100;
+    color:darkviolet;
+    background-color: lawngreen;
+}
+.content2{
+    margin-top: -10%;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/020/804/109/small/communication-and-technology-concept-hand-putting-wooden-block-cube-symbol-telephone-email-address-website-page-contact-us-or-e-mail-marketing-contact-us-in-customer-support-concept-photo.jpg");
+    background-size: cover;
+}
+.e1{
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+}
+.s3{
+    text-align: center;
+    font-size: x-large;
+    background-color: coral;
+    height: 25vh;
+    width: 100vw;
+}
+.s4{
+    text-align: center;
+    margin: -10%;
+    height: 100vw;
+    width: 100vh;
+    background-image: url("https://wpvip.edutopia.org/wp-content/uploads/2022/10/robinson-169hero-portfolio-shutterstock.jpg?w=2880&quality=85");
+}
+.s9{
+    height: 25vh;
+    width: 100vw;
+    text-align: center;
+    background-color: darkcyan;
+}
